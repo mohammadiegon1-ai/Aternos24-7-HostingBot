@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "BlaizSMP.aternos.me:",
+    "port": 15042,
     "version": "",
     "try-creative": false
   },
